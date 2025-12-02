@@ -35,7 +35,7 @@ This UI is designed to be clean, fast, and beautiful — suitable for real colle
   - `GET /fees/:id/receipt`
 
 ### 🚪 Outpass System
-- Apply for outpass with date + reason
+- Apply for outpass with date + reason + paper less like no need to fill in register simple use QR
 - Track status (Approved / Pending / Rejected)
 - API:
   - `GET /outpass`
